@@ -1,0 +1,83 @@
+[
+    {
+        "counter": "Counter_1",
+        "hour": 1,
+        "minute": 0,
+        "cell_1":50,
+        "cell_2": 42.5,
+        "cell_3": 57.5,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_1",
+        "hour": 1,
+        "minute": 5,
+        "cell_1": 4,
+        "cell_2": null,
+        "cell_3": 4.6,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_1",
+        "hour": 1,
+        "minute": 15,
+        "cell_1": 1000,
+        "cell_2": 850,
+        "cell_3": 1150,
+        "cell_4": null
+    },
+    {
+        "counter": "Counter_2",
+        "hour": 1,
+        "minute": 0,
+        "cell_1": 100,
+        "cell_2": 85,
+        "cell_3": 115,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_2",
+        "hour": 1,
+        "minute": 5,
+        "cell_1": 6,
+        "cell_2": 5.1,
+        "cell_3": 6.9,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_2",
+        "hour": 1,
+        "minute": 15,
+        "cell_1": 2000,
+        "cell_2": 1700,
+        "cell_3": null,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_3",
+        "hour": 1,
+        "minute": 0,
+        "cell_1": 75,
+        "cell_2": 63.75,
+        "cell_3": 86.25,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_3",
+        "hour": 1,
+        "minute": 5,
+        "cell_1": 11,
+        "cell_2": null,
+        "cell_3": 12.65,
+        "cell_4": 0
+    },
+    {
+        "counter": "Counter_3",
+        "hour": 1,
+        "minute": 15,
+        "cell_1": 1500,
+        "cell_2": 1275,
+        "cell_3": 1725,
+        "cell_4": null
+    }
+]
